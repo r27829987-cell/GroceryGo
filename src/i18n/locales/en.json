@@ -1,0 +1,62 @@
+{
+  "navbar": {
+    "home": "Home",
+    "categories": "Categories",
+    "cart": "Cart",
+    "orders": "Orders",
+    "subscriptions": "Subscriptions",
+    "search": "Search products...",
+    "language": "Language"
+  },
+  "home": {
+    "welcome": "Welcome to GroceryGo",
+    "tagline": "Fresh Groceries at Your Doorstep",
+    "featured": "Featured Products",
+    "subscriptions": "Our Subscriptions",
+    "browseCategories": "Browse Categories"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "quantity": "Quantity",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "price": "Price",
+    "rating": "Rating"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue Shopping",
+    "checkout": "Proceed to Checkout",
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "delivery": "Delivery",
+    "total": "Total",
+    "remove": "Remove"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "address": "Delivery Address",
+    "slot": "Select Delivery Slot",
+    "payment": "Payment Method"
+  },
+  "orders": {
+    "title": "My Orders",
+    "empty": "No Orders Yet",
+    "emptyDesc": "Start shopping to place your first order"
+  },
+  "subscriptions": {
+    "title": "Subscription Plans",
+    "subtitle": "Save more with our weekly & monthly plans"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you are looking for does not exist.",
+    "backHome": "Back to Home"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "success": "Success"
+  }
+}
